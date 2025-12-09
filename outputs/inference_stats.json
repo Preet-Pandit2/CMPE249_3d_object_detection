@@ -1,0 +1,31 @@
+{
+  "kitti": {
+    "detections": 11,
+    "mean_score": 0.8461987213654951,
+    "score_std": 0.11823001917847846,
+    "max_score": 0.9652701616287231,
+    "min_score": 0.6281846165657043,
+    "class_counts": {
+      "Car": 11
+    }
+  },
+  "nuscenes": {
+    "detections": 366,
+    "mean_score": 0.0954828953136349,
+    "score_std": 0.0861509612187051,
+    "max_score": 0.8988767266273499,
+    "min_score": 0.05010633543133736,
+    "class_counts": {
+      "car": 88,
+      "truck": 20,
+      "construction_vehicle": 3,
+      "bus": 1,
+      "trailer": 6,
+      "barrier": 8,
+      "motorcycle": 3,
+      "bicycle": 171,
+      "pedestrian": 34,
+      "traffic_cone": 32
+    }
+  }
+}
