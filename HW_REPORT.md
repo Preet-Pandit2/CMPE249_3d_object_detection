@@ -567,11 +567,6 @@ See `metrics_output.txt` for the complete output.
 │   │   ├── 000010_2d_vis.png
 │   │   └── preds/
 │   │       └── 000010.json
-│   ├── 3dssd_filtered/
-│   │   ├── 000010_predictions.json
-│   │   ├── 000010_2d_vis.png
-│   │   └── preds/
-│   │       └── 000010.json
 │   └── nuscenes_centerpoint/
 │       ├── sample2.pcd_predictions.json
 │       ├── sample2.pcd_points.ply
@@ -580,8 +575,6 @@ See `metrics_output.txt` for the complete output.
 │       ├── sample2.pcd_axes.ply
 │       └── preds/
 │           └── sample2.pcd.json
-├── results/
-│   └── readmeresults.md
 ├── scripts/              # Utility scripts
 │   ├── open3d_view_saved_ply.py
 │   └── export_kitti_calib.py
