@@ -26,8 +26,8 @@
 **Operating System:** Windows 11 (OS Build 26200.7171)  
 **Python Version:** 3.10.8  
 **CUDA Version:** 11.3 (with PyTorch CUDA 11.8 support)  
-**GPU:** NVIDIA GeForce GTX 1650 Ti
-**IDE** VS Code
+**GPU:** NVIDIA GeForce GTX 1650 Ti   
+**IDE:** VS Code
 
 ### Virtual Environment Setup
 
