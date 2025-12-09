@@ -319,10 +319,6 @@ python mmdet3d_inference2.py `
 ![3DSSD KITTI 2D Visualization](outputs/3dssd/000010_2d_vis.png)
 *3DSSD on KITTI frame 000010 - 100 detections (many false positives)*
 
-#### 3DSSD (KITTI) - Filtered (score-thr=0.6)
-![3DSSD Filtered KITTI 2D Visualization](outputs/3dssd_filtered/000010_2d_vis.png)
-*3DSSD with higher score threshold to reduce false positives*
-
 #### CenterPoint (nuScenes)
 - 3D visualization available via Open3D viewer
 - Output files: `outputs/nuscenes_centerpoint/sample2.pcd_*.ply`
