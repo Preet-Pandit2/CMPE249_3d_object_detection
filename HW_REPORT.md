@@ -1,8 +1,8 @@
 # 3D Object Detection Model Comparison Report
 
 **Date:** December 8th, 2025  
-**Project:** CMPE249 3D Object Detection Evaluation (2 >= Datasets, 2 >= models) 
-**Models Evaluated:**CenterPoint, PointPillars, 3DSSD   
+**Project:** CMPE249 3D Object Detection Evaluation (2 >= Datasets, 2 >= models)    
+**Models Evaluated:** CenterPoint, PointPillars, 3DSSD   
 **Datasets:** KITTI, nuScenes
 
 ---
