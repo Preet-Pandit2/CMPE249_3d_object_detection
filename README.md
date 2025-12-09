@@ -50,11 +50,6 @@ py -3.10 -m venv .venv
 
 ***Choose based on your hardware:***
 
-
-### 2. Install Dependencies
-
-***Choose based on your hardware:***
-
 <details>
 <summary><b>🖥️ CPU-Only Installation</b></summary>
 
